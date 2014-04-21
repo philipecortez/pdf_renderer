@@ -1,0 +1,4 @@
+= PdfRenderer
+
+This project is a simple pdf renderer made with prawn 
+license: MIT-LICENSE.
